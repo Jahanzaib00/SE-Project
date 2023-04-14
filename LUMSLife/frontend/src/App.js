@@ -27,7 +27,7 @@ function App() {
     setAccountName,
   };
 
-  // this useEffect is not working desireably, so need to be fixes
+  // this useEffect is not working desireably, so need to be fixed
 
   // useEffect(() => {
   //   const savedState = JSON.parse(localStorage.getItem("userContext"));
